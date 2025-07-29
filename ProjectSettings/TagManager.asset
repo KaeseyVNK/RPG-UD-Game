@@ -14,7 +14,7 @@ TagManager:
   - Ground
   - Player
   - Enemy
-  - 
+  - BuffArea
   - 
   - 
   - 
@@ -43,6 +43,9 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 1379488757
+    locked: 0
+  - name: Chest
+    uniqueID: 551191945
     locked: 0
   - name: Enemy
     uniqueID: 3500169307
